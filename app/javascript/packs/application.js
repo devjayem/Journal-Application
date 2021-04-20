@@ -14,4 +14,4 @@ Turbolinks.start()
 ActiveStorage.start()
 
 require('bootstrap')
-require('./hello_react')
+require('./components/TaskApp')
